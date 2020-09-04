@@ -46,11 +46,14 @@ p "am"
 end
 
 def retrieve_first_element_from_array(array)
-array = []
+array = [:wow, :I, :am, :really, :learning, :arrays!]
+puts array[0]
+p array 
+p "wow"
 end
 
 def retrieve_last_element_from_array(array)
-  
+array = [:wow, :I, ]  
 end
 
 def update_element_from_index(array, index_number, element)
