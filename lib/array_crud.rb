@@ -46,7 +46,7 @@ p "am"
 end
 
 def retrieve_first_element_from_array(array)
-  
+array = []
 end
 
 def retrieve_last_element_from_array(array)
