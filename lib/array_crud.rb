@@ -42,7 +42,7 @@ def retrieve_element_from_index(array, index_number)
 array = [:wow, :I, :am,:really, :learning, :arrays!]
 puts array[2]
 p array 
-p 2 
+p "am" 
 end
 
 def retrieve_first_element_from_array(array)
